@@ -1,0 +1,7 @@
+future==0.18.3
+Pillow==8.4.0
+requests==2.27.1
+pywebview==4.0.2
+chardet==5.0.0
+beautifulsoup4==4.11.1
+windnd==1.0.7
